@@ -1,7 +1,7 @@
 
 # CV
 My personal online CV by Jekyll Pudhina.
-[Click here](https://cicihou.github.io/cicihou/)
+[Click here](https://cicihou.github.io/cv/)
 
 ## Credits
 Inspired by the theme [Pudhina](https://knhash.github.io/Pudhina/)
