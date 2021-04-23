@@ -1,0 +1,81 @@
+I"º<p><span style="float: right; "><a href="/cicihou/assets/resume.pdf"><strong>&gt; Download as PDF</strong></a> </span>
+<br /></p>
+
+<p>email: houxi_zuel@163.com <br />
+github: <a href="https://github.com/cicihou">https://github.com/cicihou</a></p>
+
+<h3 id="skills">SKILLS</h3>
+<p>Python: Flask/Django/Pandas/Numpy/Celery <br />
+Database: MySQL/Redis/Clickhouse/S3/Impala/MongoDB <br />
+Javascript: Vue/Jquery</p>
+
+<h3 id="projects">PROJECTS</h3>
+<p><strong>YiDrone</strong> - <a href="https://www.yimian.io/yidrone">Intro &amp;&amp; Demo</a> <span style="float: right; ">2019 - 2020</span><br />
+A realtime-interactive e-commerce market viewing tool which helps clients discover new market trends and scan competitive landscapes.
+<br /><small> Python+Flask+Pandas+Clickhouse+MySQL+Redis+Nginx+Docker </small></p>
+<ul>
+  <li>upgraded the project massive dataflow from MySQL to Clickhouse, increase the speed of query.</li>
+  <li>implemented dataflow transformation via MySQL/Clickhouse/Redis to visualize the data and cache the visiting history data.</li>
+</ul>
+
+<p><strong>YiSense</strong> - <a href="https://www.yimian.io/yisense">Intro &amp;&amp; Demo</a> <span style="float: right; ">2020 - 2021</span><br />
+An E-Commerce reviews research tool which helps clients analyze E-Commerce consumer reviews more timely and extensive.
+<br /><small> Python+Flask+Pandas+Clickhouse+MySQL+Redis+Nginx+Docker </small></p>
+<ul>
+  <li>Designed the structure of databse and project based on business requirements.</li>
+  <li>Improved Clickhouse SQL query via internal function.</li>
+</ul>
+
+<p><strong>Onemap</strong> - Intro <span style="float: right; ">2020 - 2021</span><br />
+An internal data-processing tools for rule mapping before ETL.
+<br /><small> Python+Flask+Celery+Pandas+MySQL+Redis+Nginx+Docker </small></p>
+<ul>
+  <li>Integrated Amazon S3 service for users to store raw data.</li>
+  <li>Parsed raw data to MySQL and transfer it to mapping rules.</li>
+  <li>design the data structure friendly to ETL process.</li>
+</ul>
+
+<h3 id="education">EDUCATION</h3>
+
+<p>Northeastern University <span style="float: right; ">2021.9 - present</span></p>
+<ul>
+  <li>Msc, Master of Information System</li>
+</ul>
+
+<p>Zhongnan University of Economics and Law <span style="float: right; ">2012.9 - 2016.6</span></p>
+<ul>
+  <li>B.A.</li>
+  <li>2-year scholarship(maximum 3)</li>
+</ul>
+
+<h3 id="experience">EXPERIENCE</h3>
+
+<p>Python Developer - <strong><a href="https://www.yimian.io/">Yimian by Ascential</a></strong> <span style="float: right; ">2019.2 - 2021.4</span></p>
+<ul>
+  <li>Work of Python Flask, Vue Web Application</li>
+  <li>Build REST API in the backend to support data visualizing and internal data processing tools</li>
+  <li>Design customized market viewing and analysis tool for data visualization for famous brands like P&amp;G, Mars, KCC</li>
+  <li>Database(MySQL/Redis/S3/Clickhouse), Server(Nginx/Docker), Python libraries(Pandas/Celery) involved</li>
+</ul>
+
+<p>Technical Support - <strong><a href="https://www.kandaovr.com">Kandao Technology</a></strong> <span style="float: right; ">2017.9 - 2018.9</span></p>
+<ul>
+  <li>Participate in the development of Kandao CMS backend(Python Django)</li>
+  <li>Collect and analyze customerâ€™s feedback to support the product decision making</li>
+  <li>Technical documents writing and translation</li>
+</ul>
+
+<p>Data Specialist - <strong><a href="http://www.skyplumage.com/">Sky Plumage by Hainan Airlines</a></strong> <span style="float: right; ">2016.8 - 2017.8</span></p>
+<ul>
+  <li>Collect and catalogue data of flight simulator(via Excel VBA)</li>
+</ul>
+
+<h3 id="recognition--interests">RECOGNITION &amp; INTERESTS</h3>
+
+<ul>
+  <li>Translate 3 books from English to Chinese<br />
+<a href="https://book.douban.com/subject/26939902/">Johnny Depp(published 2017.3)</a><br />
+<a href="https://book.douban.com/subject/27107197/">All is not Forgotten(published 2017.10)</a><br />
+<a href="https://book.douban.com/subject/30223818/">How to Stop Time(published 2018.8)</a></li>
+</ul>
+:ET
