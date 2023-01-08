@@ -1,19 +1,15 @@
 ---
 layout: page
 title: Xi HOU
-subtitle: An awesome person
+subtitle: Software Engineer
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download latest PDF</strong></a> </span>
 <br>
 
-email: houxi_zuel@163.com <br>
-github: [https://github.com/cicihou](https://github.com/cicihou)
-
 ### SKILLS
-Python: Flask/Django/Pandas/Numpy/Celery <br>
-Database: MySQL/Redis/Clickhouse/S3/Impala/MongoDB <br>
-Javascript: Vue/Jquery
+**Languages**: Python, SQL, Java, JavaScript, HTML/CSS, Swfit, Shell, TSM, VBA, Latex <br>
+**Tools and Framework**: Flask, Django, SpringBoot, Vue.js, Jquery, Linux, Nginx, Git, Vim, Kubernetes, Docker, Kafka, MySQL, Redis, Clickhouse, Impala, Hive, AWS S3/EC2/Lambda/DynamoDB/Elasticache/Cloudwatch
 
 ### PROJECTS
 **YiDrone** - [Intro && Demo](https://www.yimian.io/yidrone) <span style="float: right; ">2019 - 2020</span><br>
@@ -38,11 +34,10 @@ An internal data-processing tools for rule mapping before ETL.
 ### EDUCATION
 
 Northeastern University <span style="float: right; ">2021.9 - present</span>  
-* Msc, Master of Information System
+* M.S. of Information System
 
 Zhongnan University of Economics and Law <span style="float: right; ">2012.9 - 2016.6</span>  
-* B.A.
-* 2-year scholarship(maximum 3) 
+* B.A. of Business English
 
 ### EXPERIENCE
 
@@ -51,15 +46,6 @@ Python Developer - **[Yimian by Ascential](https://www.yimian.io/)** <span style
 * Build REST API in the backend to support data visualizing and internal data processing tools
 * Design customized market viewing and analysis tool for data visualization for famous brands like P&G, Mars, KCC
 * Database(MySQL/Redis/S3/Clickhouse), Server(Nginx/Docker), Python libraries(Pandas/Celery) involved 
-
- 
-Technical Support - **[Kandao Technology](https://www.kandaovr.com)** <span style="float: right; ">2017.9 - 2018.9</span>  
-* Participate in the development of Kandao CMS backend(Python Django)
-* Collect and analyze customer's feedback to support the product decision making
-* Technical documents writing and translation 
-
-Data Specialist - **[Sky Plumage by Hainan Airlines](http://www.skyplumage.com/)** <span style="float: right; ">2016.8 - 2017.8</span>  
-* Collect and catalogue data of flight simulator(via Excel VBA) 
 
 
 ### RECOGNITION & INTERESTS
